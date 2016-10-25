@@ -1,6 +1,6 @@
 import Population
 
-keyword = 'This is the key'
+keyword = 'goal'
 populationcap = 200
 mutationrate = .01
 
